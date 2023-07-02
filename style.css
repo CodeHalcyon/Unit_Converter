@@ -31,9 +31,9 @@ span {
 .container {
   color: white;
   margin-top: 100px;
-  width: 40%;
-  height: 70%;
-  padding-top: 50px;
+  width: fit-content;
+  height: fit-content;
+  padding: 50px;
   background-color: rgb(0, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.4);
   box-shadow: 5px 5px 17px #929292, -5px -5px 17px #ffffff;
